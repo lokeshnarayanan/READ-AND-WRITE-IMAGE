@@ -9,7 +9,7 @@ iii) Cut and paste a small portion of the image.
 Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
-Choose an image and save it as a filename.jpg
+Choose an image and save it as a filename.jpg.
 ### Step2:
 Use imread(filename, flags) to read the file.
 ### Step3:
